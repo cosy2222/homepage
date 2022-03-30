@@ -22,6 +22,20 @@
     color: dodgerblue;
 }
 
+.iphone h5{
+    opacity: 0.7;
+}
+
 .iphone li a:hover {
     text-decoration: underline;
 }
+
+.mainimage{
+    width: 1300px;
+    border-bottom: 1px solid;
+}
+
+.mainimage img{
+    width: 100%;
+}
+
